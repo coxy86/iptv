@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/epg/refs/heads/main/foxtelnow.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 
 #EXTINF:-0 channel-id="101" group-title="Entertainment;Foxtel Go" tvg-chno="101" tvg-id="F1S" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3861118:206:CHANNEL:IMAGE:png&w=400#Foxtel%20One|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Foxtel One" , Foxtel One
 
