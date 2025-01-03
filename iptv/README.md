@@ -34,6 +34,7 @@ Some handy commands for the above to work.
 - ssh -T git@github.com
 
 ### Running the scrape
+(note, the links that get generated expire every 5.5 hours, so a schedule is needed in order to keep the channels active)
 
 For windows:
 
