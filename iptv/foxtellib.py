@@ -18,8 +18,8 @@ logging.basicConfig(format='%(asctime)s,%(msecs)03d %(levelname)-8s [%(filename)
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-SLEEP_TIME_IN_SECONDS = 4
-URL_FILTERS = [".mpd", "lic"]
+SLEEP_TIME_IN_SECONDS = 6
+URL_FILTERS = ["mpd", "lic"]
 
 
 class ScrapeManager:
