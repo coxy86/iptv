@@ -2,16 +2,17 @@
 
 You need to have the following installed or configured on your machine:
 
-- Python 3.12+ (latest)
+- Foxtel Now active account
+- Windows 10/11 laptop
+- Python (latest)
 - Git (latest)
 - Google Chrome
 - Proper github permission to git@github.com:githubuseraccount/reponame.git
 
 ### Prep
 
-1. Copy\download iptv fodler.
-2. Create (or update the `.env` file) in the directory where this app is installed/
-   extracted.
+1. Copy\download the iptv fodler.
+2. Update the `.env` file in the directory where this app is installed/extracted.
 3. In the `.env` file, set the `FOXTEL_USERNAME` and `FOXTEL_PASSWORD` to the
    appropriate values and save the file.
 4. Create a GitHub repository in order to save generated M3U8 playlist.
@@ -19,8 +20,8 @@ You need to have the following installed or configured on your machine:
 6. In the `start.bat` file, update/modify the path to the extracted iptv folder location
 
 ### Setting up permissions to GitHub repo
-- SSH generated key is required laptop connection to GitHub repo. 
-- This allows the script to upload the M3U8 files to the requested github repo. 
+- SSH generated key is required for laptop connection to GitHub repo. 
+- This allows the script to upload the M3U8 files to the requested repo. 
 - See below link for instructions on how to set this up.
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
