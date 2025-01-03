@@ -9,13 +9,14 @@ You need to have the following installed or configured on your machine:
 
 ### Prep
 
-1. Create (or update the `.env` file) in the directory where this app is installed/
+1. Copy\download iptv fodler.
+2. Create (or update the `.env` file) in the directory where this app is installed/
    extracted.
-2. In the `.env` file, set the `FOXTEL_USERNAME` and `FOXTEL_PASSWORD` to the
+3. In the `.env` file, set the `FOXTEL_USERNAME` and `FOXTEL_PASSWORD` to the
    appropriate values and save the file.
-3. Create a GitHub repository in order to save generated M3U8 playlist.
-4. After repository created edit the `scrape.py`and instert your repo address `git@github.com:githubuseraccount/reponame.git`
-5. In the `start.bat` file, update/modify the path to the extracted iptv folder location
+4. Create a GitHub repository in order to save generated M3U8 playlist.
+5. After repository created edit the `scrape.py`and instert your repo address `git@github.com:githubuseraccount/reponame.git`
+6. In the `start.bat` file, update/modify the path to the extracted iptv folder location
 
 ### Setting up permissions to GitHub repo
 - SSH generated key is required laptop connection to GitHub repo. 
