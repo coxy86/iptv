@@ -1,0 +1,521 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/epg/refs/heads/main/foxtelnow.xml"
+
+#EXTINF:-0 channel-id="101" group-title="Entertainment;Foxtel Go" tvg-chno="101" tvg-id="F1S" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3861118:206:CHANNEL:IMAGE:png&w=400#Foxtel%20One|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Foxtel One" , Foxtel One
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${foxtel_one_lic}
+
+${foxtel_one_mpd}
+
+#EXTINF:-1 channel-id="105" group-title="Entertainment;Foxtel Go" tvg-chno="105" tvg-id="UKT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256570:206:CHANNEL:IMAGE:png&w=400#UKTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="UKTV" , UKTV
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${uktv_lic}
+
+${uktv_mpd}
+
+#EXTINF:-1 channel-id="111" group-title="Entertainment;Foxtel Go" tvg-chno="111" tvg-id="ARN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263960:206:CHANNEL:IMAGE:png&w=400#Arena|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Arena" , Arena
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${arena_lic}
+
+${arena_mpd}
+
+#EXTINF:-1 channel-id="113" group-title="Entertainment;Foxtel Go" tvg-chno="113" tvg-id="IOI" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889309:206:CHANNEL:IMAGE:png&w=400#Crime|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Crime" , Crime
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${crime_lic}
+
+${crime_mpd}
+
+#EXTINF:-1 channel-id="114" group-title="Entertainment;Foxtel Go" tvg-chno="114" tvg-id="HIT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889324:206:CHANNEL:IMAGE:png&w=400#Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Comedy" , Comedy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${comedy_lic}
+
+${comedy_mpd}
+
+#EXTINF:-1 channel-id="115" group-title="Entertainment;Foxtel Go" tvg-chno="115" tvg-id="HAR" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2119802:206:CHANNEL:IMAGE:png&w=400#Docos%20HD|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Famous HD" , Famous HD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${famous_hd_lic}
+
+${famous_hd_mpd}
+
+#EXTINF:-1 channel-id="117" group-title="Entertainment;Foxtel Go" tvg-chno="117" tvg-id="FKC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=612342:206:CHANNEL:IMAGE:png&w=400#Classics|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Classics" , Classics
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${classics_lic}
+
+${classics_mpd}
+
+#EXTINF:-1 channel-id="118" group-title="Entertainment;Foxtel Go" tvg-chno="118" tvg-id="FSU" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4448299:206:CHANNEL:IMAGE:png&w=400#Sleuth|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="British" , British
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${british_lic}
+
+${british_mpd}
+
+#EXTINF:-1 channel-id="119" group-title="Entertainment;Foxtel Go" tvg-chno="119" tvg-id="DPS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766500:206:CHANNEL:IMAGE:png&w=400#BBC%20First|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="DocPlay" , DocPlay
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${docplay_lic}
+
+${docplay_mpd}
+
+#EXTINF:-1 channel-id="121" group-title="Entertainment;Foxtel Go" tvg-chno="121" tvg-id="RLS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11231402:206:CHANNEL:IMAGE:png&w=400#Real%20Life|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real Life" , Real Life
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${real_life_lic}
+
+${real_life_mpd}
+
+#EXTINF:-1 channel-id="123" group-title="Entertainment;Foxtel Go" tvg-chno="123" tvg-id="DTA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506664:206:CHANNEL:IMAGE:png&w=400#TLC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TLC" , TLC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${tlc_lic}
+
+${tlc_mpd}
+
+#EXTINF:-1 channel-id="125" group-title="Entertainment;Foxtel Go" tvg-chno="125" tvg-id="FOD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264109:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Food|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Food" , LifeStyle Food
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${lifestyle_food_lic}
+
+${lifestyle_food_mpd}
+
+#EXTINF:-1 channel-id="126" group-title="Entertainment;Foxtel Go" tvg-chno="126" tvg-id="LHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=465979:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Home|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Home" , LifeStyle Home
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${lifestyle_home_lic}
+
+${lifestyle_home_mpd}
+
+#EXTINF:-1 channel-id="128" group-title="Entertainment;Foxtel Go" tvg-chno="128" tvg-id="TRS" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16695914:206:CHANNEL:IMAGE:png&w=150&appID=GO2" tvg-name="Movies Summer" , Movies Summer
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_summer_lic}
+
+${movies_summer_mpd}
+
+#EXTINF:-1 channel-id="130" group-title="Entertainment;Foxtel Go" tvg-chno="130" tvg-id="HST" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264100:206:CHANNEL:IMAGE:png&w=400#HISTORY|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real History" , Real History
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${real_history_lic}
+
+${real_history_mpd}
+
+#EXTINF:-1 channel-id="133" group-title="Entertainment;Foxtel Go" tvg-chno="133" tvg-id="DIS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263959:206:CHANNEL:IMAGE:png&w=400#Discovery%20Channel|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Channel" , Discovery Channel
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${discovery_channel_lic}
+
+${discovery_channel_mpd}
+
+#EXTINF:-1 channel-id="135" group-title="Entertainment;Foxtel Go" tvg-chno="135" tvg-id="CIN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264099:206:CHANNEL:IMAGE:png&w=400#CRIME%2BINVESTIGATION|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real Crime" , Real Crime
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${real_crime_lic}
+
+${real_crime_mpd}
+
+#EXTINF:-1 channel-id="136" group-title="Entertainment;Foxtel Go" tvg-chno="136" tvg-id="DID" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4700474:206:CHANNEL:IMAGE:png&w=400#Investigation%20Discovery|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Investigation Discovery" , Investigation Discovery
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${investigation_discovery_lic}
+
+${investigation_discovery_mpd}
+
+#EXTINF:-1 channel-id="141" group-title="Entertainment;Foxtel Go" tvg-chno="141" tvg-id="ANI" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400#Animal%20Planet|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Animal Planet" , Animal Planet
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${animal_planet_lic}
+
+${animal_planet_mpd}
+
+#EXTINF:-1 channel-id="143" group-title="Entertainment;Foxtel Go" tvg-chno="143" tvg-id="DIT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504387:206:CHANNEL:IMAGE:png&w=400#Discovery%20Turbo|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Turbo" , Discovery Turbo
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${discovery_turbo_lic}
+
+${discovery_turbo_mpd}
+
+#EXTINF:-1 channel-id="144" group-title="Entertainment;Foxtel Go" tvg-chno="144" tvg-id="WWS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=10479931:206:CHANNEL:IMAGE:png&w=400#WWE|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="WWE" , WWE
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${wwe_lic}
+
+${wwe_mpd}
+
+#EXTINF:-1 channel-id="150" group-title="Entertainment;Foxtel Go" tvg-chno="150" tvg-id="BXS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=823997:206:CHANNEL:IMAGE:png&w=400#BoxSets|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BoxSets" , BoxSets
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${boxsets_lic}
+
+${boxsets_mpd}
+
+#EXTINF:-1 channel-id="176" group-title="Entertainment;Foxtel Go" tvg-chno="176" tvg-id="TVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542988:206:CHANNEL:IMAGE:png&w=400#TVSN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TVSN" , TVSN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${tvsn_lic}
+
+${tvsn_mpd}
+
+#EXTINF:-1 channel-id="182" group-title="Entertainment;Foxtel Go" tvg-chno="182" tvg-id="ACC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=590399:206:CHANNEL:IMAGE:png&w=400#GOOD.|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="GOOD" , GOOD
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${good_lic}
+
+${good_mpd}
+
+#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="SHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_premiere_lic}
+
+${movies_premiere_mpd}
+
+#EXTINF: -1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_hits_lic}
+
+${movies_hits_mpd}
+
+#EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="SHF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_family_lic}
+
+${movies_family_mpd}
+
+#EXTINF: -1 channel-id="405" group-title="Movies;Foxtel Go" tvg-chno="405" tvg-id="SHA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527477:206:CHANNEL:IMAGE:png&w=400#Movies%20Action|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Action" , Movies Action
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_action_lic}
+
+${movies_action_mpd}
+
+#EXTINF:-1 channel-id="406" group-title="Movies;Foxtel Go" tvg-chno="406" tvg-id="SHY" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527481:206:CHANNEL:IMAGE:png&w=400#Movies%20Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Comedy" , Movies Comedy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_comedy_lic}
+
+${movies_comedy_mpd}
+
+#EXTINF: -1 channel-id="408" group-title="Movies;Foxtel Go" tvg-chno="408" tvg-id="SHD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527482:206:CHANNEL:IMAGE:png&w=400#Movies%20Romance|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Romance" , Movies Romance
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_romance_lic}
+
+${movies_romance_mpd}
+
+#EXTINF:-1 channel-id="409" group-title="Movies;Foxtel Go" tvg-chno="409" tvg-id="MO6" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527480:206:CHANNEL:IMAGE:png&w=400#Movies%20Drama|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Drama" , Movies Drama
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_drama_lic}
+
+${movies_drama_mpd}
+
+#EXTINF: -1 channel-id="410" group-title="Movies;Foxtel Go" tvg-chno="410" tvg-id="GRR" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2337483:206:CHANNEL:IMAGE:png&w=400#Movies%20Greats|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Greats" , Movies Greats
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${movies_greats_lic}
+
+${movies_greats_mpd}
+
+#EXTINF:-1 channel-id="411" group-title="Movies;Foxtel Go" tvg-chno="411" tvg-id="LMS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5645424:206:CHANNEL:IMAGE:png&w=400#LMN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LMN" , LMN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${lmn_lic}
+
+${lmn_mpd}
+
+#EXTINF:-1 channel-id="500" group-title="Sport;Foxtel Go" tvg-chno="500" tvg-id="FSN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256571:206:CHANNEL:IMAGE:png&w=400#FOX%20SPORTS%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX SPORTS NEWS" , FOX SPORTS NEWS
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_sports_news_lic}
+
+${fox_sports_news_mpd}
+
+#EXTINF:-1 channel-id="501" group-title="Sport;Foxtel Go" tvg-chno="501" tvg-id="FS1" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400#FOX%20CRICKET|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX CRICKET" , FOX CRICKET
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_cricket_lic}
+
+${fox_cricket_mpd}
+
+#EXTINF:-1 channel-id="502" group-title="Sport;Foxtel Go" tvg-chno="502" tvg-id="SP2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400#FOX%20League|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX League" , FOX League
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_league_lic}
+
+${fox_league_mpd}
+
+#EXTINF:-1 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FS3" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 503" , Fox Sports 503
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_sports_503_lic}
+
+${fox_sports_503_mpd}
+
+#EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FAF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_footy_lic}
+
+${fox_footy_mpd}
+
+#EXTINF:-1 channel-id="505" group-title="Sport;Foxtel Go" tvg-chno="505" tvg-id="FSP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 505" , Fox Sports 505
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_sports_505_lic}
+
+${fox_sports_505_mpd}
+
+#EXTINF:-1 channel-id="506" group-title="Sport;Foxtel Go" tvg-chno="506" tvg-id="SPS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 506" , Fox Sports 506
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_sports_506_lic}
+
+${fox_sports_506_mpd}
+
+#EXTINF:-1 channel-id="507" group-title="Sport;Foxtel Go" tvg-chno="507" tvg-id="FSS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20More%2B|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports More" , Fox Sports More
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_sports_more_lic}
+
+${fox_sports_more_mpd}
+
+#EXTINF:-1 channel-id="509" group-title="Sport;Foxtel Go" tvg-chno="509" tvg-id="ESP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570991:206:CHANNEL:IMAGE:png&w=400#ESPN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN" , ESPN
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${espn_lic}
+
+${espn_mpd}
+
+#EXTINF:-1 channel-id="510" group-title="Sport;Foxtel Go" tvg-chno="510" tvg-id="ES2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=400#ESPN2|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN2" , ESPN2
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${espn2_lic}
+
+${espn2_mpd}
+
+#EXTINF:-1 channel-id="526" group-title="Sport;Foxtel Go" tvg-chno="526" tvg-id="SRA" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%201|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 1" , Sky Racing 1
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_racing_1_lic}
+
+${sky_racing_1_mpd}
+
+#EXTINF:-1 channel-id="527" group-title="Sport;Foxtel Go" tvg-chno="527" tvg-id="SR2" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024398:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%202|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 2" , Sky Racing 2
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_racing_2_lic}
+
+${sky_racing_2_mpd}
+
+#EXTINF:-1 channel-id="528" group-title="Sport;Foxtel Go" tvg-chno="528" tvg-id="SRW" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024401:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%20Thoroughbred%20Central|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing Thoroughbred Central" , Sky Racing Thoroughbred Central
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_racing_thoroughbred_central_lic}
+
+${sky_racing_thoroughbred_central_mpd}
+
+#EXTINF:-1 channel-id="529" group-title="Sport;Foxtel Go" tvg-chno="529" tvg-id="RTV" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=12543813:206:CHANNEL:IMAGE:png&w=400#RACING.COM|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="RACING" , RACING
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${racing_lic}
+
+${racing_mpd}
+
+#EXTINF:-1 channel-id="600" group-title="News & Weather;Foxtel Go" tvg-chno="600" tvg-id="SKY" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256559:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS" , SKY NEWS
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_news_lic}
+
+${sky_news_mpd}
+
+#EXTINF:-1 channel-id="601" group-title="News & Weather;Foxtel Go" tvg-chno="601" tvg-id="FXW" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256567:206:CHANNEL:IMAGE:png&w=400#SKY%20Weather|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY Weather" , SKY Weather
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_weather_lic}
+
+${sky_weather_mpd}
+
+#EXTINF:-1 channel-id="603" group-title="News & Weather;Foxtel Go" tvg-chno="603" tvg-id="ASP" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2427883:206:CHANNEL:IMAGE:png&w=400#Sky%20News%20Extra|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky News Extra" , Sky News Extra
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_news_extra_lic}
+
+${sky_news_extra_mpd}
+
+#EXTINF:-1 channel-id="604" group-title="News & Weather;Foxtel Go" tvg-chno="604" tvg-id="SUK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=543179:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS%20UK|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS UK" , SKY NEWS UK
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${sky_news_uk_lic}
+
+${sky_news_uk_mpd}
+
+#EXTINF:-1 channel-id="608" group-title="News & Weather;Foxtel Go" tvg-chno="608" tvg-id="FNC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542987:206:CHANNEL:IMAGE:png&w=400#FOX%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX News" , FOX News
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${fox_news_lic}
+
+${fox_news_mpd}
+
+#EXTINF:-1 channel-id="609" group-title="News & Weather;Foxtel Go" tvg-chno="609" tvg-id="CNN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264106:206:CHANNEL:IMAGE:png&w=400#CNN%20International|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNN International" , CNN International
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${cnn_international_lic}
+
+${cnn_international_mpd}
+
+#EXTINF:-1 channel-id="612" group-title="News & Weather;Foxtel Go" tvg-chno="612" tvg-id="MSN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11348234:206:CHANNEL:IMAGE:png&w=400#MSNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MSNBC" , MSNBC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${msnbc_lic}
+
+${msnbc_mpd}
+
+#EXTINF:-1 channel-id="620" group-title="News & Weather;Foxtel Go" tvg-chno="620" tvg-id="CNB" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766501:206:CHANNEL:IMAGE:png&w=400#CNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNBC" , CNBC
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${cnbc_lic}
+
+${cnbc_mpd}
+
+#EXTINF:-1 channel-id="621" group-title="News & Weather;Foxtel Go" tvg-chno="621" tvg-id="BLM" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4329941:206:CHANNEL:IMAGE:png&w=400#Bloomberg%20Television|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Bloomberg Television" , Bloomberg Television
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${bloomberg_television_lic}
+
+${bloomberg_television_mpd}
+
+#EXTINF:-1 channel-id="656" group-title="News & Weather;Foxtel Go" tvg-chno="656" tvg-id="NHK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4962087:206:CHANNEL:IMAGE:png&w=400#NHK%20World|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="NHK World" , NHK World
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${nhk_world_lic}
+
+${nhk_world_mpd}
+
+#EXTINF:-1 channel-id="713" group-title="Kids & Family;Foxtel Go" tvg-chno="713" tvg-id="CNE" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263952:206:CHANNEL:IMAGE:png&w=400#Cartoon%20Network|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Cartoon Network" , Cartoon Network
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${cartoon_network_lic}
+
+${cartoon_network_mpd}
+
+#EXTINF:-1 channel-id="715" group-title="Kids & Family;Foxtel Go" tvg-chno="715" tvg-id="BOO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263953:206:CHANNEL:IMAGE:png&w=400#Boomerang|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Boomerang" , Boomerang
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${boomerang_lic}
+
+${boomerang_mpd}
+
+#EXTINF:-1 channel-id="717" group-title="Kids & Family;Foxtel Go" tvg-chno="717" tvg-id="DRM" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=7080887:206:CHANNEL:IMAGE:png&w=400#DreamWorks|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="DreamWorks" , DreamWorks
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${dreamworks_lic}
+
+${dreamworks_mpd}
+
+#EXTINF:-1 channel-id="801" group-title="Music;Foxtel Go" tvg-chno="801" tvg-id="TMF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585034:206:CHANNEL:IMAGE:png&w=400#MTV%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV Hits" , MTV Hits
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${mtv_hits_lic}
+
+${mtv_hits_mpd}
+
+#EXTINF:-1 channel-id="802" group-title="Music;Foxtel Go" tvg-chno="802" tvg-id="NMU" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411777:206:CHANNEL:IMAGE:png&w=400#Nick%20Music|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Nick Music" , Nick Music
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${nick_music_lic}
+
+${nick_music_mpd}
+
+#EXTINF:-1 channel-id="803" group-title="Music;Foxtel Go" tvg-chno="803" tvg-id="VH1" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585033:206:CHANNEL:IMAGE:png&w=400#Club%20MTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Club MTV" , Club MTV
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${club_mtv_lic}
+
+${club_mtv_mpd}
+
+#EXTINF:-1 channel-id="804" group-title="Music;Foxtel Go" tvg-chno="804" tvg-id="MTC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411858:206:CHANNEL:IMAGE:png&w=400#MTV%2080s|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV 80s" , MTV 80s
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${mtv_80s_lic}
+
+${mtv_80s_mpd}
+
+#EXTINF:-1 channel-id="805" group-title="Music;Foxtel Go" tvg-chno="805" tvg-id="CMT" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411893:206:CHANNEL:IMAGE:png&w=400#CMT|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CMT" , CMT
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=${cmt_lic}
+
+${cmt_mpd}
