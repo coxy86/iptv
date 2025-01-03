@@ -1,0 +1,3 @@
+FOXTEL_USERNAME=foxtelemailaddresshere
+FOXTEL_PASSWORD=foxtelpasswordhere
+CHROME_PATH="C:\Program Files\Google\Chrome\Application"
