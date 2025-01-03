@@ -12,7 +12,7 @@ You need to have the following installed or configured on your machine:
 ### Prep
 
 1. Copy\download the iptv fodler.
-2. Rename the 'detailsenv.txt' to '.env'.
+2. Rename the `detailsenv.txt` to `.env`.
 3. In the `.env` file, set the `FOXTEL_USERNAME` and `FOXTEL_PASSWORD` to the
    appropriate values and save the file.
 4. Create a GitHub repository in order to save generated M3U8 playlist.
